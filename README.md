@@ -27,15 +27,15 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 <br>
 1. Data Preprocessing
 <br>
-*Removed irrelevant columns
+ *Removed irrelevant columns
 <br>
-*Handled missing values (if any)
+ *Handled missing values (if any)
 <br>
-*Separated features (X) and target variable (y)
+ *Separated features (X) and target variable (y)
 <br>
-*Applied train-test split (80:20)
+ *Applied train-test split (80:20)
 <br>
-*Performed feature scaling using StandardScaler
+ *Performed feature scaling using StandardScaler
 <br>
 <br>
 2.  Model Implementation
