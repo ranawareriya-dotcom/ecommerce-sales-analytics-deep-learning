@@ -1,12 +1,13 @@
 ECOMMERCE-SALES-ANALYTICS-DEEP-LEARNING
 <br>
-🔷 Project Title
+🔷 Project Title:
+<BR>
 Deep Learning-Based E-Commerce Revenue Prediction Using ANN, CNN, and LSTM Models
 <br>
 <br>
 🔷 📖 Project Description
 
-      This project focuses on predicting e-commerce revenue using multiple deep learning techniques, including Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) models.
+This project focuses on predicting e-commerce revenue using multiple deep learning techniques, including Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) models.
       The primary objective of this project is to analyze structured e-commerce sales data and evaluate the performance of different deep learning models in predicting revenue accurately. A comparative study is conducted to identify the most suitable model for this dataset.
 <br>
 <br>
@@ -36,7 +37,7 @@ Deep Learning-Based E-Commerce Revenue Prediction Using ANN, CNN, and LSTM Model
 *Performed feature scaling using StandardScaler
 <br>
    <br>
-3. Model Implementation
+2.  Model Implementation
 <br>
 🔹 Artificial Neural Network (ANN)
 <br>
@@ -48,7 +49,6 @@ Deep Learning-Based E-Commerce Revenue Prediction Using ANN, CNN, and LSTM Model
 <br>
 *Loss Function: Mean Squared Error
 <br>
-<br>
 👉 Best suited for structured/tabular data
 <br>
 <br>
@@ -58,15 +58,13 @@ Deep Learning-Based E-Commerce Revenue Prediction Using ANN, CNN, and LSTM Model
 <br>
 *Extracts local feature patterns
 <br>
-<br>
 👉 More effective for spatial data, less optimal for tabular data
 <br>
 🔹 Long Short-Term Memory (LSTM)
 <br>
-Sequential deep learning model
+*Sequential deep learning model
 <br>
-Captures temporal dependencies
-<br>
+*Captures temporal dependencies
 <br>
 👉 Best for time-series data
 <br>
@@ -98,7 +96,7 @@ Captures temporal dependencies
 *Prediction plots show ANN outputs are closest to actual values
 <br>
 <br>
-🔷 🧠 Key Findings
+🔷 Key Findings
 <br>
 *ANN is the most suitable model for tabular e-commerce data
 <br>
