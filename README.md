@@ -8,7 +8,8 @@ Deep Learning-Based E-Commerce Revenue Prediction Using ANN, CNN, and LSTM Model
 🔷 📖 Project Description
 
 This project focuses on predicting e-commerce revenue using multiple deep learning techniques, including Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) models.
-      The primary objective of this project is to analyze structured e-commerce sales data and evaluate the performance of different deep learning models in predicting revenue accurately. A comparative study is conducted to identify the most suitable model for this dataset.
+
+ The primary objective of this project is to analyze structured e-commerce sales data and evaluate the performance of different deep learning models in predicting revenue accurately. A comparative study is conducted to identify the most suitable model for this dataset.
 <br>
 <br>
 🔷 📊 Dataset Overview
@@ -36,7 +37,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 <br>
 *Performed feature scaling using StandardScaler
 <br>
-   <br>
+<br>
 2.  Model Implementation
 <br>
 🔹 Artificial Neural Network (ANN)
@@ -59,6 +60,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 *Extracts local feature patterns
 <br>
 👉 More effective for spatial data, less optimal for tabular data
+<br>
 <br>
 🔹 Long Short-Term Memory (LSTM)
 <br>
