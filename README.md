@@ -24,7 +24,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 <br>
 <br>
 🔷 ⚙️ Workflow / Methodology
-<br>
+
 1. Data Preprocessing
 <br>
  *Removed irrelevant columns
@@ -41,6 +41,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 2.  Model Implementation
 <br>
 🔹 Artificial Neural Network (ANN)
+
 <br>
 *Fully connected dense layers
 <br>
@@ -54,6 +55,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 <br>
 <br>
 🔹 Convolutional Neural Network (CNN)
+
 <br>
 *1D Convolution layers applied on reshaped data
 <br>
@@ -63,6 +65,7 @@ This project focuses on predicting e-commerce revenue using multiple deep learni
 <br>
 <br>
 🔹 Long Short-Term Memory (LSTM)
+
 <br>
 *Sequential deep learning model
 <br>
